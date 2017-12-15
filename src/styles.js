@@ -16,7 +16,7 @@ export const socialContainer = {
 };
 
 export const socialSvg = {
-  borderRadius: '50%',
+  borderRadius: '4px',
   position: 'absolute',
   top: 0,
   left: 0,
